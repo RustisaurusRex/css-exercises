@@ -3,8 +3,7 @@ body {
 }
 
 .para,
-.small-para 
-.child {
+.small-para {
   font-weight: 800;
   color: rgb(0, 0, 0)
 }
@@ -30,9 +29,10 @@ body {
 
 div.text {
   font-size: 22px;
-  font-weight: 100;
+  font-weight: 400;
 }
 
 div .child {
   font-size: 14px;
+  font-weight: 800;
 }
